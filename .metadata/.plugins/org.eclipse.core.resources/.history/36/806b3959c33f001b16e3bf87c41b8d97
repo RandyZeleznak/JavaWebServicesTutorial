@@ -1,0 +1,8 @@
+package com.zsquared.ws.soap;
+
+public class HelloWs {
+	public String hello() {
+		return "Hello";
+	}
+
+}

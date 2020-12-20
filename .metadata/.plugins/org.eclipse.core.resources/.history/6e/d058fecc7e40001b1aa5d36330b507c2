@@ -1,0 +1,5 @@
+package com.zsquared.ws.soap.config;
+
+public class WebServiceConfig {
+
+}

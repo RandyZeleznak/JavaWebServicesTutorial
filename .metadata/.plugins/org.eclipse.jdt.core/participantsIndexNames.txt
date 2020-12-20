@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\Randy\Documents\Workspace Spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1912920446.index
+\Dependency Injection\src\main\java
+C:\Users\Randy\Documents\Workspace Spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\487491731.index
+\Spring4\src\main\resources
+C:\Users\Randy\Documents\Workspace Spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4260624637.index
+\Autowire Introduction\src\main\java

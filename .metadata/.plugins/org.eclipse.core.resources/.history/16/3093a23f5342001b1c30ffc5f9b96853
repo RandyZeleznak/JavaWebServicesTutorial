@@ -1,0 +1,29 @@
+package com.zsquared.ws.soap;
+
+import java.math.BigInteger;
+import java.util.List;
+import java.util.Map;
+
+import com.zsquared.ws.trainings.CreateOrdersRequest;
+import com.zsquared.ws.trainings.CreateOrdersResponse;
+import com.zsquared.ws.trainings.CustomerOrdersPortType;
+import com.zsquared.ws.trainings.GetOrdersRequest;
+import com.zsquared.ws.trainings.GetOrdersResponse;
+
+public class CustomerOrdersImpl implements CustomerOrdersPortType {
+
+	Map<BigInteger, List<Order>> customerOrders = new HashMap<>();
+	
+	@Override
+	public GetOrdersResponse getOrders(GetOrdersRequest parameters) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CreateOrdersResponse createOrders(CreateOrdersRequest parameters) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
